@@ -1,79 +1,43 @@
-I. Summarization/Characteristics of Fixed Mindset
+* Summarization/Characteristics of Fixed Mindset
+  * Characteristics - Nature
+    * Children are born gifted
+    * children have natural talents
+    * traits are set in stone
+  *Labels
+    * if you label a child as smart, they will not want to lose that label
+    * they have to prove that label
+  * Confronted with a Problem/Error
+    * Ran from the error
+    * did not engage
+  * Study
+    * Children were told "You did great on this, you must be really smart."
+    * When given a choice to take the simple test again or take a harder test, these students chose the simple test
 
-  A. Characteristics - Nature
-  
-    1. Children are born gifted
+* Summarization/Characteristics of Growth Mindset
+  * Charcteristics - Nuture
+    * success comes from effort
+    * success comes from practice
+    * success comes from hard work
+  * Promotes
+    * love of learning
+    * embracing challenges
+    * confidence and happiness
+  * Praising
+    * praise/reward for effort and process
+    * will get more effort, engagement, and perseverance
+  * Study
+    * Children were told "You did great on this, you must be really smart."
+    * When given a choice to take the simple test again or take a harder test, these students chose the simple test
     
-    2. children have natural talents
+* Personal Situation
+  * Fixed Mindset
+    * Teaching middle school math
+    * telling students that they did great when they receive and A
+    * Never praising students for their effort
+  * Growth Mindset
+    * Competative swimming
+    * Parents always congradualted me on how I competed, not the place I received
     
-    3. traits are set in stone
-    
-  B. Labels
-  
-    1. if you label a child as smart, they will not want to lose that label
-    
-    2. they have to prove that label
-    
-  C. Confronted with a Problem/Error
-  
-    1. Ran from the error
-    
-    2. did not engage
-    
-  D. Study
-  
-    1. Children were told "You did great on this, you must be really smart."
-    
-    2. When given a choice to take the simple test again or take a harder test, these students chose the simple test
-
-II. Summarization/Characteristics of Growth Mindset
-
-  A. Charcteristics - Nuture
-  
-    1. success comes from effort
-    
-    2. success comes from practice
-    
-    3. success comes from hard work
-    
-  B. Promotes
-  
-    1. love of learning
-    
-    2. embracing challenges
-    
-    3. confidence and happiness
-    
-  C. Praising
-  
-    1. praise/reward for effort and process
-    
-    2. will get more effort, engagement, and perseverance
-    
-  D. Study
-  
-    1. Children were told "You did great on this, you must be really smart."
-    
-    2. When given a choice to take the simple test again or take a harder test, these students chose the simple test
-    
-III. Personal Situation
-
-  A. Fixed Mindset
-  
-    1. Teaching middle school math
-    
-    2. telling students that they did great when they receive and A
-    
-    3. Never praising students for their effort
-    
-  B. Growth Mindset
-  
-    1. Competative swimming
-    
-    2. Parents always congradualted me on how I competed, not the place I received
-    
-IV. Apply Understanding to The Iron Yard
-
-  A. Always recognized that trying, my effort, will help me to learn better in the future
-  
-  B. Not doing great on one assignment, or two, or three, does not mean that I am bad - as long as I have put forth the effort needed. 
+* Apply Understanding to The Iron Yard
+  * Always recognized that trying, my effort, will help me to learn better in the future
+  * Not doing great on one assignment, or two, or three, does not mean that I am bad - as long as I have put forth the effort needed. 
