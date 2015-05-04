@@ -7,7 +7,7 @@
 * `String` - a sequence of characters used to represent text. 
 
 ## Special Constants
-* `Infinity` - 
+* `Infinity` - a numeric value representing infinity, specifically positive infinity.
 * `NaN` - 
 * `undefined` - 
 
