@@ -1,4 +1,5 @@
 I. Summarization/Characteristics of Fixed Mindset
+
   A. Characteristics - Nature
     1. Children are born gifted
     2. children have natural talents
