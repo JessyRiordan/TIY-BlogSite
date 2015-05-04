@@ -1,10 +1,10 @@
 # Reading JavaScript
 
 ## Basic Literal Types
-* `null`- 
-* `Boolean` - 
-* `number` -
-* `String` - 
+* `null`- null or empty value: no object value is present.
+* `Boolean` - a value that can be one of two things: true or false.
+* `number` - numeric data value.
+* `String` - a sequence of characters used to represent text. 
 
 ## Special Constants
 * `Infinity` - 
