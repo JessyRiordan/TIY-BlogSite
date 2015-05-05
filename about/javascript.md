@@ -1,15 +1,15 @@
 # Reading JavaScript
 
 ## Basic Literal Types
-* `null`- null or empty value: no object value is present.
-* `Boolean` - a value that can be one of two things: true or false.
-* `number` - numeric data value.
-* `String` - a sequence of characters used to represent text. 
+* `null`- null or empty value: no object value is present. One of the six primative data types.
+* `Boolean` - a value that can be one of two things: true or false. One of the six primative data types.
+* `number` - numeric data value. One of the six primative data types.
+* `String` - a sequence of characters used to represent text. One of the six primative data types.
 
 ## Special Constants
 * `Infinity` - a numeric value representing infinity, specifically positive infinity.
-* `NaN` - 
-* `undefined` - 
+* `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
+* `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
 
 ## Basic Operators
 
