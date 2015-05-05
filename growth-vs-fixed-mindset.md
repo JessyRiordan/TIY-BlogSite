@@ -3,7 +3,7 @@
     * Children are born gifted
     * children have natural talents
     * traits are set in stone
-  *Labels
+  * Labels
     * if you label a child as smart, they will not want to lose that label
     * they have to prove that label
   * Confronted with a Problem/Error
