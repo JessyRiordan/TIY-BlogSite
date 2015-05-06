@@ -21,13 +21,16 @@
 
 
 ### Comparison
-* `<` - 
-* `>` - 
-* `<=` - 
-* `>=` - 
+* `==` - is equal to
+* `!=` - not equal to
+* `<` - less than
+* `>` - greater than
+* `<=` - less than or equal to
+* `>=` - greater than or equal to
 
 
 ### Assignment
-* `var` - 
-* `=` - 
-* `+=` - 
+* `var` - identifier
+* `=` - is assigned
+* `+=` - addition assignment ```` x+=y // yeilds x = x + y ````
+* `|` - or
