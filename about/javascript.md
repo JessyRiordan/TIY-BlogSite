@@ -34,3 +34,7 @@
 * `=` - is assigned
 * `+=` - addition assignment ```` x+=y // yeilds x = x + y ````
 * `|` - or
+
+## Functions
+
+For help with functions click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
