@@ -2,19 +2,19 @@
 
 ## Basic Literal Types
 
-#### `null`- null or empty value: no object value is present. "Intentionally empty". One of the six primative data types.
+_**`null`- null or empty value: no object value is present. "Intentionally empty". One of the six primative data types.**_
 
 ```
 insert example here
 ```
 
-#### `Boolean` - a value that can be one of two things: true or false. One of the six primative data types.
+_**`Boolean` - a value that can be one of two things: true or false. One of the six primative data types.**_
 
 ```
 insert example here
 ```
 
-#### `number` - numeric data value. One of the six primative data types.
+_**`number` - numeric data value. One of the six primative data types.**_
 
 ```
 insert example here
