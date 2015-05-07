@@ -34,13 +34,13 @@ insert example here
 insert example here
 ```
 
-### `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
+#### `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
 
 ```
 insert example here
 ```
 
-### `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
+#### `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
 
 ```
 insert example here
@@ -49,10 +49,30 @@ insert example here
 ## Basic Operators
 
 ### Arithmetic
-* `+` - Addition: produces the sum of numeric operands. Example ```x + y```
-* `-` - Subtraction: produces the difference of numeric operands. Example ```x - y``` 
-* `*` - Multiplication: produces the product of two operands. Example ```x * y``` 
-* `/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor. Example ```x / y``` 
+
+#### `+` - Addition: produces the sum of numeric operands. 
+
+```
+x + y
+```
+
+#### `-` - Subtraction: produces the difference of numeric operands.  
+
+```
+x - y
+``` 
+
+#### `*` - Multiplication: produces the product of two operands. 
+
+```
+x * y
+```
+
+#### `/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor. 
+
+```
+x / y
+``` 
 
 
 ### Comparison
