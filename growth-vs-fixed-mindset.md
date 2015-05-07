@@ -1,3 +1,7 @@
+---
+
+---
+
 # Part 3: Final Copy
 
 Carol Dweck states that there are two types of mindsets that any one person can have: growth or fixed. Within a fixed mindset a person will be told that they are born gifted, that they have natural talents, and that their traits are set in stone. Within a growth mindset children will be told that success comes from effort, practice, and hard work. What mindset do you have and do you think you can change it?
