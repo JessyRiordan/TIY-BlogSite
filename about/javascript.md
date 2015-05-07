@@ -1,15 +1,50 @@
 # Reading JavaScript
 
 ## Basic Literal Types
-* `null`- null or empty value: no object value is present. "Intentionally empty". One of the six primative data types.
-* `Boolean` - a value that can be one of two things: true or false. One of the six primative data types.
-* `number` - numeric data value. One of the six primative data types.
-* `String` - a sequence of characters used to represent text. One of the six primative data types.
+
+#### `null`- null or empty value: no object value is present. "Intentionally empty". One of the six primative data types.
+
+```
+insert example here
+```
+
+#### `Boolean` - a value that can be one of two things: true or false. One of the six primative data types.
+
+```
+insert example here
+```
+
+#### `number` - numeric data value. One of the six primative data types.
+
+```
+insert example here
+```
+
+#### `String` - a sequence of characters used to represent text. One of the six primative data types.
+
+```
+insert example here
+```
 
 ## Special Constants
-* `Infinity` - a numeric value representing infinity, specifically positive infinity.
-* `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
-* `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
+
+#### `Infinity` - a numeric value representing infinity, specifically positive infinity.
+
+```
+insert example here
+```
+
+### `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
+
+```
+insert example here
+```
+
+### `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
+
+```
+insert example here
+```
 
 ## Basic Operators
 
@@ -42,3 +77,7 @@ For help with functions click [here](https://developer.mozilla.org/en-US/docs/We
 ### Definition
 
 A function represents a set of statements that performs a procedure or calculates a value. 
+
+```
+insert example here
+```
