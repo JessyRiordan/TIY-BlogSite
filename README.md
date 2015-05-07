@@ -7,4 +7,4 @@ permalink: index.html
 * this is a bulleted list
 * it has items on it
 
-[My Growth and Fixed Minset Essay](growth-vs-fixed-mindset.md)
+[My Growth and Fixed Minset Essay](growth-vs-fixed-mindset.html)
