@@ -38,3 +38,7 @@
 ## Functions
 
 For help with functions click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
+
+### Definition
+
+A function represents a set of statements that performs a procedure or calculates a value. 
