@@ -54,24 +54,32 @@ _**`+` - Addition: produces the sum of numeric operands.**_
 
 ```
 x + y
+
+3 + 5 //yeilds 8
 ```
 
 _**`-` - Subtraction: produces the difference of numeric operands.**_ 
 
 ```
 x - y
+
+5 - 3 //yeilds 2
 ``` 
 
 _**`*` - Multiplication: produces the product of two operands.**_
 
 ```
 x * y
+
+4 * 3 //yeilds 12
 ```
 
 _**`/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor.**_
 
 ```
 x / y
+
+15 / 3 //yeilds 5
 ``` 
 
 
