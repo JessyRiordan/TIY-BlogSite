@@ -20,7 +20,7 @@ _**`number` - numeric data value. One of the six primative data types.**_
 insert example here
 ```
 
-#### `String` - a sequence of characters used to represent text. One of the six primative data types.
+_**`String` - a sequence of characters used to represent text. One of the six primative data types.**_
 
 ```
 insert example here
@@ -28,19 +28,19 @@ insert example here
 
 ## Special Constants
 
-#### `Infinity` - a numeric value representing infinity, specifically positive infinity.
+_**`Infinity` - a numeric value representing infinity, specifically positive infinity.**_
 
 ```
 insert example here
 ```
 
-#### `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
+_**`NaN` - Not-A-Number: represents undefined value or a value that can not be represented.**_
 
 ```
 insert example here
 ```
 
-#### `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
+_**`undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.**_
 
 ```
 insert example here
@@ -50,45 +50,103 @@ insert example here
 
 ### Arithmetic
 
-#### `+` - Addition: produces the sum of numeric operands. 
+_**`+` - Addition: produces the sum of numeric operands.**_
 
 ```
 x + y
+
+3 + 5 //yeilds 8
 ```
 
-#### `-` - Subtraction: produces the difference of numeric operands.  
+_**`-` - Subtraction: produces the difference of numeric operands.**_ 
 
 ```
 x - y
+
+5 - 3 //yeilds 2
 ``` 
 
-#### `*` - Multiplication: produces the product of two operands. 
+_**`*` - Multiplication: produces the product of two operands.**_
 
 ```
 x * y
+
+4 * 3 //yeilds 12
 ```
 
-#### `/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor. 
+_**`/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor.**_
 
 ```
 x / y
+
+15 / 3 //yeilds 5
 ``` 
 
 
 ### Comparison
-* `==` - is equal to
-* `!=` - not equal to
-* `<` - less than
-* `>` - greater than
-* `<=` - less than or equal to
-* `>=` - greater than or equal to
+
+_**`==` - is equal to**_
+
+```
+insert example here
+```
+
+_**`!=` - not equal to**_
+
+```
+insert example here
+```
+
+_**`<` - less than**_
+
+```
+insert example here
+```
+
+_**`>` - greater than**_
+
+```
+insert example here
+```
+
+_**`<=` - less than or equal to**_
+
+```
+insert example here
+```
+
+_**`>=` - greater than or equal to**_
+
+```
+insert example here
+```
 
 
 ### Assignment
-* `var` - identifier
-* `=` - is assigned
-* `+=` - addition assignment ```` x+=y // yeilds x = x + y ````
-* `|` - or
+
+_**`var` - identifier**_
+
+```
+insert example here
+```
+
+_**`=` - is assigned**_
+
+```
+insert example here
+```
+
+_**`+=` - addition assignment**_ 
+
+``` 
+x+=y // yeilds x = x + y 
+```
+
+_**`|` - or**_
+
+```
+insert example here
+```
 
 ## Functions
 
