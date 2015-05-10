@@ -4,43 +4,43 @@
 
 _**`null`- null or empty value: no object value is present. "Intentionally empty". One of the six primative data types.**_
 
-```
-insert example here
-```
+  * Click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null) for a reference for null. 
 
 _**`Boolean` - a value that can be one of two things: true or false. One of the six primative data types.**_
 
-```
-insert example here
-```
+  * Click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean) for a reference for Boolean.
 
 _**`number` - numeric data value. One of the six primative data types.**_
 
 ```
-insert example here
+4
+3.14159
+0.5
 ```
 
-#### `String` - a sequence of characters used to represent text. One of the six primative data types.
+_**`String` - a sequence of characters used to represent text. One of the six primative data types.**_
 
 ```
-insert example here
+"Four"
+"Twelve hundred and 5"
+"The Iron Yard"
 ```
 
 ## Special Constants
 
-#### `Infinity` - a numeric value representing infinity, specifically positive infinity.
+_**`Infinity` - a numeric value representing infinity, specifically positive infinity.**_
 
 ```
 insert example here
 ```
 
-#### `NaN` - Not-A-Number: represents undefined value or a value that can not be represented.
+_**`NaN` - Not-A-Number: represents undefined value or a value that can not be represented.**_
 
 ```
 insert example here
 ```
 
-#### `undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.
+_**`undefined` - indicates that a variable has not yet been assigned a value. One of the six primative data types.**_
 
 ```
 insert example here
@@ -50,38 +50,47 @@ insert example here
 
 ### Arithmetic
 
-#### `+` - Addition: produces the sum of numeric operands. 
+_**`+` - Addition: produces the sum of numeric operands.**_
 
 ```
 x + y
+5 + 3 // yeilds 8
 ```
 
-#### `-` - Subtraction: produces the difference of numeric operands.  
+_**`-` - Subtraction: produces the difference of numeric operands.**_  
 
 ```
 x - y
+5 - 3 // yeilds 2
 ``` 
 
-#### `*` - Multiplication: produces the product of two operands. 
+_**`*` - Multiplication: produces the product of two operands.**_
 
 ```
 x * y
+5 * 3 // yeilds 15
 ```
 
-#### `/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor. 
+_**`/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor.**_
 
 ```
 x / y
+15 / 3 // yeilds 5
 ``` 
 
 
 ### Comparison
-* `==` - is equal to
-* `!=` - not equal to
-* `<` - less than
-* `>` - greater than
-* `<=` - less than or equal to
-* `>=` - greater than or equal to
+_**`==` - is equal to**_
+
+_**`!=` - not equal to**_
+
+_**`<` - less than**_
+
+_**`>` - greater than**_
+
+_**`<=` - less than or equal to**_
+
+_**`>=` - greater than or equal to**_
 
 
 ### Assignment
