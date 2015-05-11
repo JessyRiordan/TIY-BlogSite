@@ -122,7 +122,7 @@ _**`>=` - greater than or equal to**_
 6 >= 6 // yeilds "true"
 6 >= 4 // yeilds "true"
 6 >= 9 // yeilds "false"
-
+```
 
 ### Assignment
 * `var` - identifier
