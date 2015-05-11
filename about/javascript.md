@@ -110,3 +110,15 @@ A function represents a set of statements that performs a procedure or calculate
 ```
 insert example here
 ```
+### Expressions and Operators
+_**`typeof`**_
+ * Returns a string that indicating the type of unevaluated object.
+ 
+```
+typeof 24 // yeilds "number"
+typeof "Riordan" // yeilds "String"
+typeof Array // yeilds "function
+typeof function // yeilds "function
+typeof null // yeilds "object
+typeof Infinity // yeilds "number
+```
