@@ -82,15 +82,46 @@ x / y
 ### Comparison
 _**`==` - is equal to**_
 
+```
+5 == 5 // yeilds "true
+5 == 4 // yeilds "false"
+```
+
 _**`!=` - not equal to**_
+
+```
+5 != 5 // yeilds "false"
+5 != 4 // yeilds "true"
+```
 
 _**`<` - less than**_
 
+```
+5 < 7 // yeilds "true"
+5 < 4 // yeilds "false"
+```
+
 _**`>` - greater than**_
+
+```
+5 > 7 // yeilds "false"
+5 > 4 // yeilds "true"
+```
 
 _**`<=` - less than or equal to**_
 
+```
+4 <= 4 // yeilds "true"
+4 <= 5 // yeilds "true"
+4 <= 3 // yeilds "false"
+```
+
 _**`>=` - greater than or equal to**_
+
+```
+6 >= 6 // yeilds "true"
+6 >= 4 // yeilds "true"
+6 >= 9 // yeilds "false"
 
 
 ### Assignment
