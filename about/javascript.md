@@ -4,26 +4,26 @@
 
 _**`null`- null or empty value: no object value is present. "Intentionally empty". One of the six primative data types.**_
 
-```
-insert example here
-```
+  * Click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null) for a reference for null. 
 
 _**`Boolean` - a value that can be one of two things: true or false. One of the six primative data types.**_
 
-```
-insert example here
-```
+  * Click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean) for a reference for Boolean.
 
 _**`number` - numeric data value. One of the six primative data types.**_
 
 ```
-insert example here
+4
+3.14159
+0.5
 ```
 
 _**`String` - a sequence of characters used to represent text. One of the six primative data types.**_
 
 ```
-insert example here
+"Four"
+"Twelve hundred and 5"
+"The Iron Yard"
 ```
 
 ## Special Constants
@@ -54,99 +54,81 @@ _**`+` - Addition: produces the sum of numeric operands.**_
 
 ```
 x + y
-
-3 + 5 //yeilds 8
+5 + 3 // yeilds 8
 ```
 
-_**`-` - Subtraction: produces the difference of numeric operands.**_ 
+_**`-` - Subtraction: produces the difference of numeric operands.**_  
 
 ```
 x - y
-
-5 - 3 //yeilds 2
+5 - 3 // yeilds 2
 ``` 
 
 _**`*` - Multiplication: produces the product of two operands.**_
 
 ```
 x * y
-
-4 * 3 //yeilds 12
+5 * 3 // yeilds 15
 ```
 
 _**`/` - Division: produces the quotient of numeric operands. The left operand is the dividend and the right operand is the divisor.**_
 
 ```
 x / y
-
-15 / 3 //yeilds 5
+15 / 3 // yeilds 5
 ``` 
 
 
 ### Comparison
-
 _**`==` - is equal to**_
 
 ```
-insert example here
+5 == 5 // yeilds "true
+5 == 4 // yeilds "false"
 ```
 
 _**`!=` - not equal to**_
 
 ```
-insert example here
+5 != 5 // yeilds "false"
+5 != 4 // yeilds "true"
 ```
 
 _**`<` - less than**_
 
 ```
-insert example here
+5 < 7 // yeilds "true"
+5 < 4 // yeilds "false"
 ```
 
 _**`>` - greater than**_
 
 ```
-insert example here
+5 > 7 // yeilds "false"
+5 > 4 // yeilds "true"
 ```
 
 _**`<=` - less than or equal to**_
 
 ```
-insert example here
+4 <= 4 // yeilds "true"
+4 <= 5 // yeilds "true"
+4 <= 3 // yeilds "false"
 ```
 
 _**`>=` - greater than or equal to**_
 
 ```
-insert example here
+6 >= 6 // yeilds "true"
+6 >= 4 // yeilds "true"
+6 >= 9 // yeilds "false"
 ```
-
 
 ### Assignment
-
-_**`var` - identifier**_
-
-```
-insert example here
-```
-
-_**`=` - is assigned**_
-
-```
-insert example here
-```
-
-_**`+=` - addition assignment**_ 
-
-``` 
-x+=y // yeilds x = x + y 
-```
-
-_**`|` - or**_
-
-```
-insert example here
-```
+* `var` - identifier
+* `=` - is assigned
+* `+=` - addition assignment ```` x+=y // yeilds x = x + y ````
+* `|` - or
 
 ## Functions
 
@@ -158,4 +140,16 @@ A function represents a set of statements that performs a procedure or calculate
 
 ```
 insert example here
+```
+### Expressions and Operators
+_**`typeof`**_
+ * Returns a string that indicating the type of unevaluated object.
+ 
+```
+typeof 24 // yeilds "number"
+typeof "Riordan" // yeilds "String"
+typeof Array // yeilds "function
+typeof function // yeilds "function
+typeof null // yeilds "object
+typeof Infinity // yeilds "number
 ```
