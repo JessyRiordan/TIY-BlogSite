@@ -8,18 +8,43 @@ Today was the first day at _The Iron Yard_. Oh lord, what have I gotten myself i
 
 ### Tuesday, May 5th
 
-Today began with our stand up meeting. The blocker for me was the JavaScript definitions. I am trying to completely understand the concept before I write the definition. This is a weakness of mine that I need to correct! :smile: Moving onto the lesson, today we learned about User Stories. The basic format for a User Story is: "A **someone** can do **something** so that **someone** can get **some** benefit. The smurf (easy) way to reember the format is: "A **smurf** can **smurf** so that **smurfs** can **smurf**. 
+Today began with our stand up meeting. 
 
 ### Wednesday, May 6th
 
-### Thurday, May 7th
+Today began with our stand up meeting. The blocker for me was the JavaScript definitions. I am trying to completely understand the concept before I write the definition. This is a weakness of mine that I need to correct! :smile: Moving onto the lesson, today we learned about User Stories. The basic format for a User Story is: "A **someone** can do **something** so that **someone** can get **some** benefit". The smurf (easy) way to reember the format is: "A **smurf** can **smurf** so that **smurfs** can **smurf**". Before you write a User Stories for what you want to creat you must first brainstorm about what that "thing" needs to do. We were brainstorming about a todo app. What does a todo app need to do? 
+  1) add someting
+  2) check the something off
+  3) list all the somethings
+  4) delete the somethings
+  5) prioritize something
+  6) edit something
+
+
+### Thursday, May 7th
 
 ### Friday, May 8th
 
+Today began with a group meeting for all of _The Iron Yard_. We went around the room and had to state our names, one thing that went well this week, and one thing that did not go well this week. It was a fun little thing to do to get to know everyone that I did not know yet. Once the meeting was over we went over to _Echo_ for a "tour". Once back at _The Iron Yard_ we got to hear from
+
 ### What have I learned in Terminal?
 
-`need some examples here!`
+These are only a few....
 
-### What have I learned in GitHub?
+```
+whoami // my username
 
-`need some example here!`
+hostname // the computer name
+
+pwd // print working directory (where am I in this computer!)
+
+cd // move to things
+
+git status // find out the status of my repo
+
+git add // stage a file to the repo
+
+git commit // commit the files to the repo
+
+```
+
