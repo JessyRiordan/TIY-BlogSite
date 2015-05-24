@@ -12,7 +12,7 @@ For our assignment we were doing the Yak Shavings for the week.
 
 ### Tuesday, May 12th - Thursday, May 14th
 
-Oh this week with all of it's Nested Accordions, Full Width Tabs, and TodoMVC's. I feel that the main lesson for this week was: YOU WILL MESS STUFF UP... AND FIX IT... AGAIN... AND AGAIN. Besides that lesson we learned about the MVC (Model, View, Controller). The model is our JavaScript. The view is the interface, what the user interacts with. Then there is the controller, which is like the traffic cop between the two. It is still a hard concept to understand what goes in the controller vs. the model. I think that the more I work on this concept the more I will understand where things should be located.
+Oh this week with all of it's Nested Accordions, Full Width Tabs, and TodoMVC's. I feel that the main lesson for this week was: YOU WILL MESS STUFF UP... AND FIX IT... AGAIN... AND AGAIN. Besides that lesson we learned about the [MVC](https://developer.mozilla.org/en-US/Apps/Build/Modern_web_app_architecture/MVC_architecture) (Model, View, Controller). The model defines what data the app should contain. The view is the interface, what the user interacts with. Then there is the controller, which is like the traffic cop between the two. It is still a hard concept to understand what goes in the controller vs. the model. I think that the more I work on this concept the more I will understand where things should be located.
 
 ### Friday, May 15th
 
@@ -50,3 +50,5 @@ git commit // commit the files to the repo
 touch <file name> // adding anew file
 
 browser-sync start --server // connecting the file to a local server
+
+```
