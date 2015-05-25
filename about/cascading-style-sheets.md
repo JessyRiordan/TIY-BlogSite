@@ -43,3 +43,15 @@ The visibility property can be used to hide an element while leaving the space w
 # CSS Typographic Elements
 
 ## [font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+  [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+  [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+  [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+  [font-variant](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
+  
+  
+## [text]
+
+## [line]
+
+## [color]
+  
