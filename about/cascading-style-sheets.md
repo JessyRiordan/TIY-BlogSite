@@ -39,3 +39,7 @@ The top CSS property specifies part of the position of positioned elements. It h
 ## [visability](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility) 
 
 The visibility property can be used to hide an element while leaving the space where it would have been. It can also hide rows or columns of a table.
+
+# CSS Typographic Elements
+
+## [font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
