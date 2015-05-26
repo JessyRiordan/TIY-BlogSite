@@ -60,7 +60,7 @@ The visibility property can be used to hide an element while leaving the space w
   * [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
   * [text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
 
-## [line]
+## line
   * [line-break](https://developer.mozilla.org/en-US/docs/Web/CSS/line-break)
   * [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
 
