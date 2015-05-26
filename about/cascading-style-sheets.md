@@ -43,15 +43,26 @@ The visibility property can be used to hide an element while leaving the space w
 # CSS Typographic Elements
 
 ## [font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
-  [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-  [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
-  [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
-  [font-variant](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
+  * [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+  * [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+  * [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+  * [font-variant](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
   
   
-## [text]
+## text
+  * [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
+  * [text-decoration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+  * [text-decoration-color](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color)
+  * [text-decoration-line](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line)
+  * [text-decoration-style](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style)
+  * [text-indent](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent)
+  * [text-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)
+  * [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+  * [text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
 
 ## [line]
+  * [line-break](https://developer.mozilla.org/en-US/docs/Web/CSS/line-break)
+  * [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
 
-## [color]
+## [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
   
