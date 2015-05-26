@@ -65,4 +65,5 @@ The visibility property can be used to hide an element while leaving the space w
   * [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
 
 ## [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+ * [How Do I Use Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
   
