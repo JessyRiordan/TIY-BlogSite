@@ -32,11 +32,21 @@ Now let's move to the Command Line to help with the rest.
 
   * Once enter is pressed the following should show up. 
    ![](img/git-remote-update-return.png)
-  
 
-* ![](img/git-remote-v.png)
-* ![](img/git-remote-v-return.png)
-* ![](img/git-fetch.png)
+**Step 5: Checking on our Remotes** 
+
+   ![](img/git-remote-v.png)
+   
+   ![](img/git-remote-v-return.png)
+
+**Step 6: Fetching**
+
+  * Let's fetch!
+   ![](img/git-fetch.png)
+
+
+
+
 * ![](img/git-branch-a.png)
 * ![](img/git-branch-a-return.png)
 * ![](img/merge.png)
@@ -50,17 +60,3 @@ Now let's move to the Command Line to help with the rest.
 * ![](img/merged-github.png)
 * ![](img/git-remote-rm.png)
 
-* hub remote add
-* git remote update
-* git remote -v
-* git fetch
-* git branch -a
-* git merge --no-ff
-* atom
-* fix merge conflicts
-* git status
-* git add
-* git commit
-* git push
-* git remote rm
-*
