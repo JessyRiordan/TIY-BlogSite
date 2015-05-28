@@ -14,6 +14,6 @@ Merge Conflicts:
 * git commit
 * git push
 * git remote rm
-* 
+*
 
-![Can't Merge](http://i.imgur.com/x04QhFl.png)
+![Can't Merge](rel='img/CantMerge.png')
