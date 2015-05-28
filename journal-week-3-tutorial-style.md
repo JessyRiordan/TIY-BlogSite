@@ -16,4 +16,4 @@ Merge Conflicts:
 * git remote rm
 *
 
-![Can't Merge](rel='img/CantMerge.png')
+![Can't Merge](img/CantMerge.png)
