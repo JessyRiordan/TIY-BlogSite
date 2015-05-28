@@ -1,4 +1,11 @@
-## Outline
+## Merge Conflicts?!?
+
+Have you ever received this message when trying to merge your fork with another fork on Github?
+
+![Can't Merge](img/CantMerge.png)
+
+Well here is the solution!
+
 
 Merge Conflicts:
 * hub remote add
@@ -15,5 +22,3 @@ Merge Conflicts:
 * git push
 * git remote rm
 *
-
-![Can't Merge](img/CantMerge.png)
