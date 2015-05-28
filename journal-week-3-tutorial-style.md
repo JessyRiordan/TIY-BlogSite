@@ -10,8 +10,10 @@ Well here is the solution!
 
 **Step 2: Name that Merge**
 
-  *Click that green button again
+  * Click that green button again
    ![](img/name-that-merge.png)
+
+
   * Oh no! Can't automatically merge.... however will we fix this?
    ![](img/oh-no.png)
 
@@ -26,6 +28,8 @@ Now let's move to the Command Line to help with the rest.
 
   * Now you should git remote update the user.
    ![](img/git-remote-update.png)
+
+
   * Once enter is pressed the following should show up. 
    ![](img/git-remote-update-return.png)
   
