@@ -1,6 +1,4 @@
-## Networking is Important?
-
-### Not Twitter Again!
+## Is Twitter Important?!?!
 
 Before coming to _The Iron Yard_ I tried to get into the whole tweeting about everyting I do and see. I just could not get into it. It was a website/app that I just did not utilize on a daily basis. I think I may have spent one day following [@weatherchannel](https://twitter.com/weatherchannel) about tornadoes or hurricanes. Overall, I did not think of Twitter as useful.
 
