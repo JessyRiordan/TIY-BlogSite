@@ -1,0 +1,16 @@
+{
+  "name": "jessyriordan.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JessyRiordan/jessyriordan.github.io",
+  "authors": [
+    "Jessy Riordan <jessy.riordan@gmail.com>"
+  ],
+  "license": "CC0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
