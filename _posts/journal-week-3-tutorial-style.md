@@ -2,7 +2,7 @@
 
 Have you ever received this message when trying to merge your fork with another fork on Github?
 
-![Can't Merge](img/journal-week-3/CantMerge.png)
+![Can't Merge](../img/journal-week-3/CantMerge.png)
 
 Well here is the solution!
 
