@@ -95,7 +95,20 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header {
+  width: 100%;
+}
 
+.image {
+  background-color: black;
+  width: 100%;
+  text-align: center;
+}
+
+/*img {
+  width: 100%;
+  text-align: center;
+}*/
 
 
 
