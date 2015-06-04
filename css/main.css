@@ -95,7 +95,20 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.navigation {
+  background-color: black;
+}
 
+.container {
+  color: white;
+  font-size: 15pt;
+  text-align: center;
+}
+
+li {
+  display:inline-block;
+  margin: 2.5%;
+}
 
 
 
