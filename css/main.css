@@ -108,14 +108,15 @@ header {
 header .name {
   margin: auto;
   position: absolute;
-  top: 40%;
-  left: 45%;
+  top: 60%;
+  /*left: 25%;*/
   color: white;
-  font-size: 45pt;
-  text-align: center;
+  font-size: 80pt;
+  /*text-align: center;*/
 }
 
 header .navigation {
+  padding: 0; margin: 0;
   width: 100%;
   background-color: black;
   position: fixed;
@@ -131,6 +132,18 @@ header .container {
 li {
   display:inline-block;
   margin: 2.5%;
+}
+
+/*Help from to get clicked links to still be white http://stackoverflow.com/questions/4383460/dont-change-link-color-when-a-link-is-clicked*/
+
+a.contact,
+a.contact:visited,
+a.github,
+a.github:visited {
+  color: white;
+  font-size: 15pt;
+  text-decoration: none;
+  text-align: center;
 }
 
 body {
