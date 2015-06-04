@@ -97,24 +97,33 @@ textarea {
 
 header {
   width: 100%;
-}
-
-.image {
+  height: 500px;
+  background-image: url('../img/Colorful-Wallpapers-66.jpg');
   background-color: black;
-  width: 100%;
-  text-align: center;
+  position: relative;
 }
 
-/*img {
-  width: 100%;
-  text-align: center;
-}*/
+/*Vertical Centering help from http://www.vanseodesign.com/css/vertical-centering/*/
 
-.navigation {
+header .name {
+  margin: auto;
+  position: absolute;
+  top: 60%;
+  /*left: 25%;*/
+  color: white;
+  font-size: 80pt;
+  /*text-align: center;*/
+}
+
+header .navigation {
+  padding: 0; margin: 0;
+  width: 100%;
   background-color: black;
+  position: fixed;
 }
 
-.container {
+header .container {
+  margin: auto;
   color: white;
   font-size: 15pt;
   text-align: center;
@@ -123,6 +132,23 @@ header {
 li {
   display:inline-block;
   margin: 2.5%;
+}
+
+/*Help from to get clicked links to still be white http://stackoverflow.com/questions/4383460/dont-change-link-color-when-a-link-is-clicked*/
+
+a.contact,
+a.contact:visited,
+a.github,
+a.github:visited {
+  color: white;
+  font-size: 15pt;
+  text-decoration: none;
+  text-align: center;
+}
+
+body {
+  height: 3000px;
+  background-color: black;
 }
 
 
