@@ -28,7 +28,9 @@
           </nav>
         </header>
         <body>
-          <p>sdlfijasldj</p>
+          {% for post in site.posts %}
+            <a href="{{post.url}}">{{post.title}}</a>
+          {% endfor %}
         </body>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
