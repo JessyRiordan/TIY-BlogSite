@@ -48,13 +48,17 @@ An [API](http://en.wikipedia.org/wiki/Application_programming_interface), Applic
 
   * **How do I know that there is more data available?**
 
-  * What are the endpoints for fetching...
-    * the profile data for a user?
-    * the organizations a user belongs to?
-    * the repositories a user has created?
-    * a filtered list of repositories?
-    * a sorted list of repositories?
-    * public events for a user?
+#### Endpoints for fetching:
+
+* the profile data for a user: `https://api.github.com`
+
+* the organizations a user belongs to: `https://api.github.com`
+* the repositories a user has created: `https://api.github.com`
+* a filtered list of repositories: `https://api.github.com`
+* a sorted list of repositories: `https://api.github.com`
+* public events for a user: `https://api.github.com`
+
+
   * When fetching public events for a user...
     * How many results are returned by default?
     * What limitations exist on fetching _more_ results?
@@ -62,3 +66,14 @@ An [API](http://en.wikipedia.org/wiki/Application_programming_interface), Applic
     * What fields are included in each result?
     * What are the data types for each field?
     * What are some of the different values for the `type` field?
+
+    * How can I use the Github API to...
+  * get all the comments for a particular issue?
+  * add a comment to an issue?
+* How can I use the jQuery API to...
+  * get the HTML contents of an element?
+  * create a _new_ HTML element?
+  * add an HTML element to the page?
+* How can I use the Lodash API to...
+  * replace placeholders with values from an object?
+  * repeat code for every item of an array?
