@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/JessyRiordan/jessyriordan.github.io/issues"
   },
-  "homepage": "https://github.com/JessyRiordan/jessyriordan.github.io"
+  "homepage": "https://github.com/JessyRiordan/jessyriordan.github.io",
+  "devDependencies": {
+    "browser-sync": "^2.7.12",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.1"
+  }
 }
